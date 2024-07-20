@@ -22,7 +22,7 @@ This project allows you to store user vouchers imported from Mikhmon in a CSV fo
    ```bash
    pkg update && pkg upgrade
 
-#### Install Python and Git:
+#### Install Python and Git:**
    '''bash
    pkg install python git
 
